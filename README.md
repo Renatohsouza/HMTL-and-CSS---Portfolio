@@ -1,4 +1,4 @@
-# Portfolio - Renato Souza - Parte 1
+# Portfolio - Renato Souza - Version 1
 
 Bem-vindo ao meu portfólio! Este projeto foi desenvolvido para mostrar minhas habilidades em Front-end, utilizando HTML e CSS. Aqui, você encontrará informações sobre mim, meus projetos e como entrar em contato.
 
