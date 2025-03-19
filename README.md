@@ -19,6 +19,12 @@ Este portfólio foi criado com o objetivo de demonstrar minhas habilidades em de
 
 ## Como Utilizar
 
+<h3> Teste ele online nessa primeira versão ✨ </h3>
+
+https://hmtl-and-css-portfolio-pt1.vercel.app/
+
+ou siga os passo abaixo.
+
 Para visualizar o projeto, basta abrir o arquivo `index.html` em qualquer navegador web. O arquivo `style.css` contém todos os estilos necessários para a página.
 
 ## Links Úteis
